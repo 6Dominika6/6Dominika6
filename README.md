@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @6Dominika6
-- 👀 I’m interested in Web development, web app
-- 🌱 I’m currently learning C#, HTML, CSS, JavaScript;
+- 👀 I’m interested in Data Science, Web development, web app
+- 🌱 I’m currently learning Python, C#, HTML, CSS, JavaScript;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
